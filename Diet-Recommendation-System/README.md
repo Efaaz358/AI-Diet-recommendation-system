@@ -78,11 +78,8 @@ The project is created with:
 
 ## :whale: Setup
 
-### Run it locally
-#### Clone the repo
-```
-$ git clone https://github.com/zakaria-narjis/Diet-Recommendation-System
-```
+
+
 ### docker-compose
 In the project root run:
 ```
@@ -98,7 +95,7 @@ https://diet-recommendation-system.streamlit.app/
 ## Citation
 ```
 @software{narjis_2024_12507829,
-  author       = {Narjis, Zakaria},
+  author       = {Efaaz},
   title        = {Diet recommendation system},
   month        = jun,
   year         = 2024,
