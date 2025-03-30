@@ -94,14 +94,11 @@ https://diet-recommendation-system.streamlit.app/
 
 ## Citation
 ```
-@software{narjis_2024_12507829,
+@software{efaaz_2025_12507829,
   author       = {Efaaz},
   title        = {Diet recommendation system},
-  month        = jun,
-  year         = 2024,
-  publisher    = {Zenodo},
-  version      = {v1.0.1},
-  doi          = {10.5281/zenodo.12507829},
-  url          = {https://doi.org/10.5281/zenodo.12507829}
+  month        = March,
+  year         = 2025,
+  
 }
 ```
