@@ -16,7 +16,7 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.12507164
     description: >-
-      #https://github.com/zakaria-narjis/Diet-Recommendation-System/releases/tag/v1.0.0
+      https://github.com/zakaria-narjis/Diet-Recommendation-System/releases/tag/v1.0.0
 repository-code: >-
   https://github.com/zakaria-narjis/Diet-Recommendation-System
 url: 'https://diet-recommendation-system.streamlit.app/'
