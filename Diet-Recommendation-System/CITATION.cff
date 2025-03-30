@@ -18,7 +18,7 @@ identifiers:
     description: >-
       #https://github.com/zakaria-narjis/Diet-Recommendation-System/releases/tag/v1.0.0
 repository-code: >-
-  #https://github.com/zakaria-narjis/Diet-Recommendation-System
+  https://github.com/zakaria-narjis/Diet-Recommendation-System
 url: 'https://diet-recommendation-system.streamlit.app/'
 abstract: >-
   People from all around the world are getting more
